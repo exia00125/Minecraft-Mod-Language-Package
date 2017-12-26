@@ -1,0 +1,9 @@
+error.endertanks.bucket.nolink3.txt=无法连接到桶，你和储罐拥有者不处于同一个组
+error.endertanks.tank.public.disabled.txt=公共储罐被禁止，储罐必须升级才能使用
+error.endertanks.tank.private.disabled.txt=创建私人储罐被禁止
+error.endertanks.tank.team.disabled.txt=创建组的储罐被禁止
+error.endertanks.tank.private.denied.txt=只有拥有者才可以那样操作
+error.endertanks.tank.team.denied.txt=只有组成员才可以那样操作
+error.endertanks.bucket.public.disabled.txt=公共桶被禁止
+error.endertanks.bucket.private.disabled.txt=创建私人桶被禁止
+error.endertanks.bucket.team.disabled.txt=创建组的桶被禁止

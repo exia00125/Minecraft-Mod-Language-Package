@@ -1,0 +1,11 @@
+gui.tooltips.appliedenergistics2.SearchMode_AutoKeep=自动搜索 锁定
+gui.tooltips.appliedenergistics2.SearchMode_StandardKeep=标准搜索 锁定
+gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep=JEI自动同步 锁定
+gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep=JEI标准同步 锁定
+gui.tooltips.appliedenergistics2.FilterMode=搜索过滤模式.
+gui.tooltips.appliedenergistics2.FilterModeKeep=恢复上一次搜索时的过滤设置.
+gui.tooltips.appliedenergistics2.FilterModeClear=每次打开清除上次搜索时的过滤信息.
+achievement.ae2.Root=应用能源
+achievement.ae2.Root.desc=当一个箱子已经不够用的时候......
+achievement.ae2.SpatialIOExplorer=大胆去吧！
+achievement.ae2.SpatialIOExplorer.desc=被存储进一个空间存储单元
